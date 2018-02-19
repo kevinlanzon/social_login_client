@@ -1,0 +1,15 @@
+{
+  "name": "facebook-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Lanzon <kevin.lanzon@healthera.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
